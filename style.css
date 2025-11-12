@@ -131,7 +131,7 @@ input[type="file"]::file-selector-button {
   display: none; /* hidden initially */
   position: fixed;
  top: 40%;
- left: 48%;
+ left: 45%;
   width: 100vw;
   height: 100vh;
   background: rgba(0, 0, 0, 0.6); /* semi-transparent dark overlay */
