@@ -29,10 +29,11 @@
 }
 
 form {
-    width: 80vw;
+    max-width: 80vw;
+    width: 100%;
 
     z-index: 9999999;
-
+margin-inline:auto;
     position: relative;
 
     padding-inline: 20px;
